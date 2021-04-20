@@ -1,6 +1,8 @@
 <template>
-  <img alt="Vue logo" src="./assets/JoJo.jpg">
-  <HelloWorld msg= "Joe Pederson"/>
+  <div>
+    <img alt="Vue logo" src="./assets/JoJo.jpg">
+    <HelloWorld msg= "Joe Pederson"/>
+  </div>
 </template>
 
 <script>
